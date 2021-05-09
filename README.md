@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ParkJiHun7939
+- 👋 Hi, I’m @Ruery7939
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Kotiln/Android Studio
 - 💞️ I’m looking to collaborate on ...
